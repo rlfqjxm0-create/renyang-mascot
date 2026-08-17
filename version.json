@@ -1,7 +1,7 @@
 {
- "version": 1786965510,
+ "version": 1786965906,
  "files": {
-  "mascot.py": "a58bb6cc0e42668cc290a3065d198385816d3bd3a556ee4771e48a9acef34551",
+  "mascot.py": "978618971506d2a12dfcbf2c80ed95d8d14e98ab4c6e7252d3643000d8c73637",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -348,11 +348,6 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "b24fce8125c2234285ae5f8dfbb612eb879c8897476d7fbfcc04856057e42e76"
  },
- "notes": [
-  "홈 타이틀이 시간대별 그림 하늘로 바뀌고, 창에 꽉 차게 커졌어요",
-  "캐릭터가 머리만 살짝 들썩이며 숨 쉬어요 — 몸과 책상은 그대로",
-  "게이지가 둥근 알약 모양이 되고, 저녁 시간대엔 핑크빛이에요",
-  "받은 반응 말풍선이 커져서 누가 콕 했는지 잘 보여요",
-  "뒷 페이지도 아홉 칸으로 채워지고, 캐릭터가 이름표 정중앙에 앉아요"
- ]
+ "notes": [],
+ "silent": true
 }
