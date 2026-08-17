@@ -1,0 +1,285 @@
+{
+ "name": "레냥",
+ "scale": 0.34,
+ "screen_quad": [
+  [
+   381,
+   897
+  ],
+  [
+   605,
+   892
+  ],
+  [
+   593,
+   989
+  ],
+  [
+   349,
+   988
+  ]
+ ],
+ "blink": null,
+ "trail_color": "#b96f0e",
+ "hard_alpha": true,
+ "timer": {
+  "enabled": true,
+  "idle_sec": 15
+ },
+ "fun": true,
+ "nose": [
+  629,
+  750
+ ],
+ "arms_over_head": true,
+ "pen_grain": false,
+ "todo": true,
+ "talk": [
+  "오늘도 상큼하게 시작하냥.",
+  "한 조각씩 까듯이 그리면 되냥.",
+  "새콤달콤한 선이다냥.",
+  "귤껍질은 한 번에 벗기는 거냥.",
+  "비타민 충전하고 가자냥.",
+  "동글동글하게, 부드럽게냥.",
+  "오늘 작업은 당도가 높다냥.",
+  "말랑하게 힘 빼고 그리자냥.",
+  "졸려도 손은 움직인다냥…",
+  "탱글탱글한 하루 되라냥.",
+  "까면 깔수록 나오는 게 실력이냥.",
+  "속살처럼 촉촉한 색이다냥.",
+  "씨앗 같은 아이디어를 심자냥.",
+  "햇빛 쬐며 익어 가는 중이냥.",
+  "얇은 껍질부터, 밑그림부터냥.",
+  "귤 하나 까먹고 계속하자냥.",
+  "손끝이 새콤해지는 기분이냥.",
+  "오늘도 알맹이가 꽉 찼다냥.",
+  "천천히 익어도 맛있다냥.",
+  "겨울 이불 속 귤처럼 포근하냥.",
+  "동그라미 하나는 자신 있다냥.",
+  "상큼한 발상이 나왔다냥!",
+  "한 망에 담긴 귤처럼 차곡차곡냥.",
+  "오늘의 나, 잘 익었다냥.",
+  "끝까지 달콤하게 마무리하자냥."
+ ],
+ "gestures": true,
+ "stretch_talk": [
+  "같이 좀 펴요.",
+  "어깨 한 번 돌려요.",
+  "허리도요."
+ ],
+ "stretch_done_talk": [
+  "좀 낫죠?",
+  "됐어요.",
+  "잘했어요."
+ ],
+ "stretch_hint_suffix": " — 눌러줘",
+ "remember_pos": true,
+ "history": true,
+ "deadline_on": true,
+ "goal_cheer": true,
+ "soft_overlay": true,
+ "pen_monitor_pick": false,
+ "feedback_url_enc": "DRoVXR5bXEwLHV4FChcATAIMBkoPEURCFhYBBxtCDRZKVVdSUV5VWFUaWFJDU11CHF9dVEsaFzNGUCYGeT4LPjwoOn8KNlMmOlAHWSwXIHobJjcgMABrCyAPVyAmKBoCBxhHCykrUFokfCICCTMyMywcVAQDYAsNBw==",
+ "gestures_plus": true,
+ "stickers": true,
+ "youtube": true,
+ "card": {
+  "fill": "#ee9d2b",
+  "border": "#f7cf9a",
+  "track": "#fcecd3",
+  "text": "#5d3d17",
+  "sub": "#a8823f",
+  "deco": "tangerine",
+  "panel": "#fdf8ef",
+  "soft": "#faeeda",
+  "line": "#f2e2c8"
+ },
+ "titles": [
+  [
+   1,
+   "첫 획"
+  ],
+  [
+   3,
+   "낙서 시작"
+  ],
+  [
+   5,
+   "선 긋는 중"
+  ],
+  [
+   8,
+   "지우개 단골"
+  ],
+  [
+   12,
+   "밑그림 연습"
+  ],
+  [
+   16,
+   "동그라미 수련"
+  ],
+  [
+   20,
+   "스케치 견습"
+  ],
+  [
+   25,
+   "선의 감각"
+  ],
+  [
+   30,
+   "펜 잡은 손"
+  ],
+  [
+   36,
+   "채색 입문"
+  ],
+  [
+   42,
+   "팔레트 정리"
+  ],
+  [
+   50,
+   "그리는 사람"
+  ],
+  [
+   60,
+   "붓 한 자루"
+  ],
+  [
+   75,
+   "색 고르는 눈"
+  ],
+  [
+   90,
+   "그림 동료"
+  ],
+  [
+   100,
+   "밤샘 입문"
+  ],
+  [
+   125,
+   "커피 한 잔"
+  ],
+  [
+   150,
+   "손목 조심"
+  ],
+  [
+   175,
+   "마감 생존자"
+  ],
+  [
+   200,
+   "손이 기억함"
+  ],
+  [
+   250,
+   "그림 중독"
+  ],
+  [
+   300,
+   "붓끝 감각"
+  ],
+  [
+   350,
+   "레이어 정글"
+  ],
+  [
+   400,
+   "한 획의 무게"
+  ],
+  [
+   500,
+   "타블렛 요정"
+  ],
+  [
+   600,
+   "그림쟁이"
+  ],
+  [
+   700,
+   "무한 캔버스"
+  ],
+  [
+   800,
+   "선의 마술사"
+  ],
+  [
+   900,
+   "밤샘 장인"
+  ],
+  [
+   1000,
+   "붓의 주인"
+  ],
+  [
+   1250,
+   "그림 도사"
+  ],
+  [
+   1500,
+   "전설의 손"
+  ],
+  [
+   2000,
+   "살아남은 화가"
+  ],
+  [
+   3000,
+   "붓과 한 몸"
+  ],
+  [
+   5000,
+   "멸종 위기 아님"
+  ]
+ ],
+ "level": true,
+ "update_dot": true,
+ "typing_arm": true,
+ "card_top": 26,
+ "slime": {
+  "kinds": {
+   "말랑이": {
+    "tint": 0.45,
+    "size": 1.0,
+    "thick": 0.0,
+    "stiff": 0.0,
+    "reach": 2.8,
+    "vol": 0.32
+   },
+   "버터바": {
+    "shape": "bar",
+    "label": "butter",
+    "bar_w": 1.5,
+    "bar_h": 1.25,
+    "bar_edge": 6.0,
+    "tint": 0.52,
+    "shade": 0.0,
+    "size": 1.0,
+    "thick": 1.0,
+    "stiff": 0.6,
+    "reach": 2.0,
+    "vol": 1.0,
+    "pitch": 0.82
+   },
+   "치즈": {
+    "shape": "bar",
+    "label": "cheese",
+    "holes": 7,
+    "bar_w": 0.95,
+    "bar_h": 1.45,
+    "bar_edge": 4.0,
+    "color": "#f5e09a",
+    "size": 0.95,
+    "thick": 0.55,
+    "stiff": 0.3,
+    "vol": 1.0
+   }
+  }
+ },
+ "reset_menu": false,
+ "char_lift": 62
+}
