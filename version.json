@@ -1,7 +1,7 @@
 {
- "version": 1786960744,
+ "version": 1786961747,
  "files": {
-  "mascot.py": "347ee98b47114e50791765d6a585d1248761d4c12713c6b1c20c63669d183fe4",
+  "mascot.py": "64339ffcf8075294eac342881e58a631fa61f2b53a6f66427c59ae4e5c0f3aea",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -39,6 +39,11 @@
   "parts_renyang/seat_pen.png": "0ad4544cdfc3b7f06387cb21e56433a9bd21b713f81558460fb2d14b3e571b06",
   "parts_renyang/seat_pen2.png": "de349f88a5e59804a32c96a29c3ea0ef4901d70c081f6c2d28e8ba8d5f0b0e95",
   "parts_renyang/seat_type.png": "fd50b2f74987bff0c347ea3143be99f1dcb4b5b0012db6f1f8ae6333d05a7297",
+  "parts_renyang/sky_dawn.png": "588c23959f0f6af3c8a5f75fb7eb14ed64d4e8ed567b04bddcf9c2592726c2c1",
+  "parts_renyang/sky_day.png": "8c836f9d19bfde652386227be759bd3cea9ead31c54f35c46eb639a74502445e",
+  "parts_renyang/sky_dusk.png": "357d5a58d58536cd07f06f291be1ea7be6866846a7b83c985a0bcd9af833f321",
+  "parts_renyang/sky_morning.png": "08a2cacc410e1cabe61815bc6601ec4a56265ca792b6f37d247ef597ef89099b",
+  "parts_renyang/sky_night.png": "f762dc17a481c603d8bc1d76f594ace20551e2aab850bfda9cd631f57731ad84",
   "parts_renyang/smile.png": "cf440e01cc82064e62bfcb7079238774e2c75349c2842bf71d6d8165f7f24896",
   "parts_renyang/fonts/Pretendard-Bold.otf": "2e91915fab54df71cc9598ebf608b2bdb54c6fe3c066ac61dff0bc44fca71cc7",
   "parts_renyang/fonts/Pretendard-Regular.otf": "3ffbacde6ab8411f1d2db54bb9b1f0b3ee2a738932033722cf0388c06aed1c93",
