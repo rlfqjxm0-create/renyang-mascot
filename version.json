@@ -1,5 +1,5 @@
 {
- "version": 1786949421,
+ "version": 1786949678,
  "files": {
   "mascot.py": "f0ecba155a6c65e36db34372a7db09426517c249264dd0815005a9114e83caa7",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
@@ -343,6 +343,9 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "33dd7fc8cf781b8b8a37c1a60a54b7506ebce5b44399d28fc0841d143d19e70c"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "새 주민 '레냥'(귤 고양이)이 이사 왔어요 — 홈에서 만나요",
+  "모두의 플레이리스트에서 일부 노래가 재생되지 않던 문제를 고쳤어요 (주소에 개인 재생목록이 붙어 있던 곡)",
+  "노래에 좋아요를 누르면 하트가 내 화면에 바로 보여요"
+ ]
 }
