@@ -1,7 +1,7 @@
 {
- "version": 1787054771,
+ "version": 1787057078,
  "files": {
-  "mascot.py": "6785053cdc723282110b970a5fcef16d3c3d0b9c98b66366a6c01cef0e146cc4",
+  "mascot.py": "5b5330aca6db42a3d254ab80740a491607d29036a5cba2037d63c28dcd154697",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -401,9 +401,6 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "b24fce8125c2234285ae5f8dfbb612eb879c8897476d7fbfcc04856057e42e76"
  },
- "notes": [
-  "환경음 아이콘이 동그란 나뭇잎으로 바뀌었어요",
-  "우클릭할 때 그림자가 번쩍이던 것을 고쳤어요",
-  "패왕과 성실이의 타이머 카드·귀 모양·소리를 손봤어요"
- ]
+ "notes": [],
+ "silent": true
 }
