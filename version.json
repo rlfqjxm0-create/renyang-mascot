@@ -1,5 +1,5 @@
 {
- "version": 1787060701,
+ "version": 1787060977,
  "files": {
   "mascot.py": "de855ae3cdd90d359c4c4129cb7e6b801a816af1281703e234ebd58c6dabfa33",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
@@ -11,6 +11,7 @@
   "parts_renyang/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_renyang/desk.png": "01baab992affc8be567c19966c1e34663b67a94a26046b733857ed41db8eda28",
   "parts_renyang/eyes_closed.png": "f763e9c1166f0b785e75cc91dc721254db36029ed4f968b14ff7cb611f5eb637",
+  "parts_renyang/hand.png": "14fcba700a6266576b2d5a5e8d6aa308f53ff0d00008e93ee51526d08eec067f",
   "parts_renyang/hat.png": "4bd1da80b760cff3694c7b21350e8dce6a177026846dcd737d796ad7560f277f",
   "parts_renyang/head.png": "ff741e519f47f4dfe34ba3830e91a02cbd439137a19cb9b4396713e29c2d8581",
   "parts_renyang/lashes.png": "3af1f688f0c51c0a645acabc0c93f67019c95464e552a98bc6ff501899075175",
