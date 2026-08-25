@@ -1,7 +1,7 @@
 {
- "version": 1787615269,
+ "version": 1787691824,
  "files": {
-  "mascot.py": "ababc499835b013ae317989896a3e2bcdd66a2669a694f7177bbda851e066e4d",
+  "mascot.py": "fbbd51154d02b797fd8c4927f73b974fc08c82657ef60526e60ec725b2f1ec99",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -16,12 +16,12 @@
   "parts_renyang/config.json": "770db577a684072f591012cb8999d865a21258b9ce259e0c264c8cb541b04ac6",
   "parts_renyang/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_renyang/desk.png": "01baab992affc8be567c19966c1e34663b67a94a26046b733857ed41db8eda28",
-  "parts_renyang/eyes_closed.png": "f763e9c1166f0b785e75cc91dc721254db36029ed4f968b14ff7cb611f5eb637",
+  "parts_renyang/eyes_closed.png": "bf0ff893a647c1b0c4a82d0cebf62bfa8723858f08854d8e2e7b9d3d519d478a",
   "parts_renyang/hand.png": "14fcba700a6266576b2d5a5e8d6aa308f53ff0d00008e93ee51526d08eec067f",
   "parts_renyang/hat.png": "4bd1da80b760cff3694c7b21350e8dce6a177026846dcd737d796ad7560f277f",
   "parts_renyang/head.png": "ff741e519f47f4dfe34ba3830e91a02cbd439137a19cb9b4396713e29c2d8581",
   "parts_renyang/lashes.png": "3af1f688f0c51c0a645acabc0c93f67019c95464e552a98bc6ff501899075175",
-  "parts_renyang/layout.json": "33b2e47df1f6bc0203b816da208f05f3458d3030b497efbfb5742076fcaebbfa",
+  "parts_renyang/layout.json": "4710701ee81966165ffff33e2f301fb1060e6b8466a39f196fbcc68a084d9fbd",
   "parts_renyang/prop1.png": "afd5250523c705260f4f097e07a4c336dbe4980a0258c5d3466783da5691ba93",
   "parts_renyang/prop10_back.png": "9c151b667a305e0b40917014640ebb0b599d65f77fbb44f467f973eb245a4198",
   "parts_renyang/prop11.png": "5018d089066acf04ff2118046d99d1112eacb9819345988f562674b49035022f",
@@ -43,8 +43,14 @@
   "parts_renyang/prop21.png": "66a57bddeeba14b6b5a426b4e2baf9c9d511cbb1091df36fee374157c362adaa",
   "parts_renyang/prop21_bit2.png": "d58d2e52c560028a8d2fbd72607d300e4497ab90c74b6f151f75c4ba9e39f840",
   "parts_renyang/prop21_bit3.png": "a57385959d741788e857aa42d6234573f4b9abba5b57840da59cc4e0ec120159",
-  "parts_renyang/prop22.png": "190a9135791b52aeef662fdce32ab968739bf2ec15b4f429c2f0d4d4335b5f56",
-  "parts_renyang/prop23.png": "34a697c675366ca7ae40e7ef555f4e9ef0c7572421ed0ca97e3f06cbb5eb6c98",
+  "parts_renyang/prop22.png": "84215a2370a64564d29b58357f958e16b22c50cdbe68d512049b862d6b272721",
+  "parts_renyang/prop23.png": "0054310c1818ada321f6a41204846db7bd885dde460388e269c4dfc95c81f4b3",
+  "parts_renyang/prop24.png": "7f3b0635936042d987b054204d05ab228f1aa2b08528d1b7f6c22da85a06d40e",
+  "parts_renyang/prop24_bit2.png": "de6fd0db1024636a95811a6158e2974e4c071cd6f9d471df9e12912d6ff2897d",
+  "parts_renyang/prop25.png": "b0064fe4ea40f60a23cbda40fa5134a5a4924f7df8706e2292147588b383daef",
+  "parts_renyang/prop25_bit2.png": "5ad0061ff9bfff317d1b842d501aad3b682c40559acb92ae101bf5433ea683b9",
+  "parts_renyang/prop25_bit3.png": "e6cadb6700709eaef5ee5aa63b3a40a09ca48ea9b43de0e81418425020851ba2",
+  "parts_renyang/prop25_bit4.png": "26b131c68829f2caf6a4e125d43e12c50f2dfdf16c60be739811635e1cf88611",
   "parts_renyang/prop3.png": "c8dc56099902532cc8068e334748d8329f06e42eb2a7d914efcedfd1a8430cb1",
   "parts_renyang/prop4.png": "7c97022255ecdc85360eae844110c431172aa38f3667f7a3c961acdfe9c8e3e6",
   "parts_renyang/prop5.png": "1dfc8609509c19fc28b083ac1be6c0b8583dfe1cdf77dbec70f713a676705958",
@@ -66,7 +72,7 @@
   "parts_renyang/sky_dusk.png": "357d5a58d58536cd07f06f291be1ea7be6866846a7b83c985a0bcd9af833f321",
   "parts_renyang/sky_morning.png": "08a2cacc410e1cabe61815bc6601ec4a56265ca792b6f37d247ef597ef89099b",
   "parts_renyang/sky_night.png": "f762dc17a481c603d8bc1d76f594ace20551e2aab850bfda9cd631f57731ad84",
-  "parts_renyang/smile.png": "cf440e01cc82064e62bfcb7079238774e2c75349c2842bf71d6d8165f7f24896",
+  "parts_renyang/smile.png": "10ef121ff41b557185026fa4a331ae3a0bd55330d7fd3566cb029d9775218899",
   "parts_renyang/wg_head.png": "9ef5d882e4839b57ef20e69faa1a558390e3c7f68112ad89c366c00c9773a45c",
   "parts_renyang/fonts/Pretendard-Bold.otf": "2e91915fab54df71cc9598ebf608b2bdb54c6fe3c066ac61dff0bc44fca71cc7",
   "parts_renyang/fonts/Pretendard-Regular.otf": "3ffbacde6ab8411f1d2db54bb9b1f0b3ee2a738932033722cf0388c06aed1c93",
@@ -483,6 +489,7 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "958da4bd526d867ec8250db02da4729ceb168664c04419091fe6ebf040122f80"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "새 소품 4종이 왔어요 — 잠자는 고양이(가끔 눈을 뜨고 빤히 봐요), 김이 폴폴 나는 왕만두, 아기 쪽쪽이, 토끼 머리띠. '소품 새로고침'을 누르다 보면 만날 수 있어요."
+ ]
 }
