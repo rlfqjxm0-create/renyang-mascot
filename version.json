@@ -1,7 +1,7 @@
 {
- "version": 1788380437,
+ "version": 1788382664,
  "files": {
-  "mascot.py": "9b0d3a68b6589a336ce75814562ebe6b853cd93d616679fbd44ab5f673d34871",
+  "mascot.py": "82f7fb45dd6a4fe3331968674aa51807f02cb10b4d18fc1f3142f0233b3d5d9d",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -531,6 +531,9 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "0b2e0560b1bf72e55b8ab8623e3083a401842cdafe905a5a0186012617aee9bb"
  },
- "notes": [],
+ "notes": [
+  "같이하기에서 친구가 '오늘은 여기까지'를 누르면 그 캐릭터 왼쪽에 '오늘은 여기까지 할게요, 모두 화이팅!' 말풍선이 크게 뜨고 손을 흔들다가, 2초쯤 뒤 캐릭터와 함께 스르르 사라져요 — 뽀모도로 창과 바탕화면 띠 양쪽에서",
+  "같이하기 사이클을 끝까지 돌아 멈추면 부른 사람 창에 '다시 시작' 단추가 떠서 이어서 같이 돌릴 수 있어요"
+ ],
  "silent": true
 }
