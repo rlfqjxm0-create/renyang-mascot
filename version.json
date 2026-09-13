@@ -1,7 +1,7 @@
 {
- "version": 1789224576,
+ "version": 1789257611,
  "files": {
-  "mascot.py": "5fccdc816afc94fd084dcd2c19a2a0e083ba273de2871d02f8bc3b4cca0b849e",
+  "mascot.py": "1eca135341642be61ba8ad23fcc5e3441ca685ace5f135c611bd39cd7e31abef",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -13,7 +13,7 @@
   "parts_renyang/chip_meta.json": "19d1e6c8695852c7445dbb541df4050fb3d0ca7eb0fcbfb71f30cd96c3c757d2",
   "parts_renyang/chip_movie.png": "43bfa1493af45a8adc05b455acda466b56cad4394229cd8a706ae5cde09ed642",
   "parts_renyang/chip_spoon.png": "9c1f69af5de27a78fcff161bc8cacbe21aa3ce8cc5b8ea8294517ae23925f08f",
-  "parts_renyang/config.json": "53e510fc3d1ddbe1d6184a4ca9baf6187cafa29f146df0c1df22e94f09c1f10d",
+  "parts_renyang/config.json": "78fcfda7d30fdc8d4114f2344a093621b1b167fc7c6de306230b2d84e12d9f48",
   "parts_renyang/config.json.bak": "733f0c3ccf3c34a5ad1047c3b3bbbc88798fb6d44c965f9a75cd694d9c0a75d7",
   "parts_renyang/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_renyang/desk.png": "01baab992affc8be567c19966c1e34663b67a94a26046b733857ed41db8eda28",
@@ -578,6 +578,10 @@
   "stickers/__init__.py": "d77e3dc92cb353dced8d192c140643c6458bc3901facdf2e0a0d0830fa4244b7",
   "youtube_player.py": "6a1893353a56493b0168ecf6ab79433dd3bec126768add4ade33420407007dae"
  },
- "notes": [],
- "silent": true
+ "notes": [
+  "**다크 테마가 생겼어요 (윈도우)** — 환경설정 › 표시 › 테마에서 '다크'를 고르고 저장하면, 캐릭터 타이머 카드·할 일/마감 말풍선·홈·뽀모도로·플레이리스트·환경설정·우클릭 메뉴까지 모든 창이 흑백 톤으로 바뀌어요",
+  "다크 테마에서는 글자가 하얗게 보이고, 마감 말풍선의 D-day 는 가까워지면 원래처럼 주황·빨강으로 보여요. 홈 타이틀 그림은 흑백, 바탕 점무늬는 은은하게 바뀌어요",
+  "음악을 트는 동안 CPU 사용이 절반 가까이 줄었어요 — 머리 위 음표 하나 때문에 재생 내내 초당 60번 다시 그리고 있었어요 · 데드라인 시계가 쓰는 메모리도 줄였어요",
+  "뽀모도로 창 — 아래 가장자리를 잡고 끌어도 크기가 바뀌어요 · 끌어 정한 크기(배율·넓힌 폭)를 다음에 켤 때도 기억해요 (데드라인·스톱워치 탭에서 끄거나 탭을 바꿔도 작아지지 않아요)"
+ ]
 }
