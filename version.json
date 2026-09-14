@@ -1,7 +1,7 @@
 {
- "version": 1789340601,
+ "version": 1789394277,
  "files": {
-  "mascot.py": "18009d399ced6226b4dfae1b43751e005781557e4e4eafc5441a2e3993cb6baf",
+  "mascot.py": "b013f6ec7fa02508797731e6ffaa088e7949e5a9d9f7a9ff3352d00b3ce24b14",
   "parts_renyang/arm_key.png": "e0d7785f1c8fec646d17c8e74d58ab0bd77b30153a76b2310b9c3469fe2a9da7",
   "parts_renyang/arm_pen.png": "747bb41230dafaa46926bd7707bf531d1324aed76eba2ea611f3c5a682479b6b",
   "parts_renyang/arm_right.png": "2e4c7307d0909735932767fc50d050205215aa70daea3e5ad3feafe3dc8bade3",
@@ -13,7 +13,7 @@
   "parts_renyang/chip_meta.json": "19d1e6c8695852c7445dbb541df4050fb3d0ca7eb0fcbfb71f30cd96c3c757d2",
   "parts_renyang/chip_movie.png": "43bfa1493af45a8adc05b455acda466b56cad4394229cd8a706ae5cde09ed642",
   "parts_renyang/chip_spoon.png": "9c1f69af5de27a78fcff161bc8cacbe21aa3ce8cc5b8ea8294517ae23925f08f",
-  "parts_renyang/config.json": "78fcfda7d30fdc8d4114f2344a093621b1b167fc7c6de306230b2d84e12d9f48",
+  "parts_renyang/config.json": "84809ba3482f398dfd658c45c2fffbc2bd968f8ff9da5475ce5e08ef88c8e537",
   "parts_renyang/config.json.bak": "733f0c3ccf3c34a5ad1047c3b3bbbc88798fb6d44c965f9a75cd694d9c0a75d7",
   "parts_renyang/crown.png": "b1b7426a0222ac294a782cb06db6c9c4aba4e660591dd1761dc9e4da050175fc",
   "parts_renyang/desk.png": "01baab992affc8be567c19966c1e34663b67a94a26046b733857ed41db8eda28",
@@ -579,9 +579,9 @@
   "youtube_player.py": "cfe04eb4c6a7fb3f9470ad1cf539d384341bf104fb10ba891d430952cf2f6efe"
  },
  "notes": [
-  "**유리 테마 — 홈·뽀모도로·플레이리스트 창을 끌 때 버벅이던 것 고침.** 끄는 동안 유리를 그 순간 모습 그대로 굳혀 두고 놓으면 다시 비쳐요 (겉모습은 그대로, 움직임만 부드럽게) · 캐릭터를 끌 때 타이머 카드 유리도 같은 방식",
-  "**홈·뽀모도로 스티커를 끌 때 버벅이던 것 고침** — 움직이는 스티커만 옮기고 창을 통째로 다시 그리지 않아요 (유리 테마에서 특히 심했어요)",
-  "**다크 테마 — 테마색이 어두운 캐릭터(준사 등)에서 글자가 안 보이던 것 고침.** 판이 흰색으로 뒤집혀 칭호·홈 꾸미기·환경설정 글자가 흰 바탕에 흰 글자로 묻혀 있었어요. 이제 판은 어둡고, 밝은 바탕이 남는 자리에서는 글자가 검정으로 바뀌어요",
-  "플레이리스트 — 퍼가기가 막힌 곡을 틀 때 처음 한순간 소리가 확 커지던 것 고침 (유튜브가 볼륨 100으로 먼저 틀던 것을, 정한 볼륨이 들어갈 때까지 소리를 막아요)"
+  "**캐릭터가 다른 창 아래로 내려가던 것 고침 (항상 위 고정).** 앞 창이 바뀌는 순간을 윈도우가 바로 알려 주는 신호를 받아 그때 곧바로 올라와요. 예전엔 1초마다 훑다가 클립스튜디오 팔레트처럼 '항상 위'인 창에 몇 번 지면 60초를 통째로 포기해서, 그동안 아래에 묻힌 채였어요 (제보 감사해요)",
+  "항상 위 고정 — 창을 눌러서 덮인 건 '진 것'으로 안 세고 그때마다 다시 올라와요. 스스로 계속 되올리는 창(펜 입력판 같은)하고만 5·15·30·60초로 쉬어 가며 다시 해 봐요. 컴퓨터 부하는 오히려 줄었어요 (훑는 간격 1초 → 3초, 나머지는 신호로)",
+  "말풍선·할 일·마감 말풍선, 우클릭 메뉴·환경설정 창은 그대로 캐릭터 위에 있어요 — 같은 프로그램의 창은 건드리지 않고, 메뉴가 떠 있는 동안은 올리지 않아요",
+  "**캐릭터 대사 30종 추가** — 캐릭터마다 새로운 말 30가지가 늘었어요. 캐릭터를 누르면 나와요"
  ]
 }
